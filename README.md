@@ -1,5 +1,5 @@
 # Gboardxhyx
-小鹤音形Gboard个人词典导入文件
+用于在Gboard个人词典中添加小鹤音形辅助码的导入文件
 
 此项目文件来源于 <https://github.com/NZJ-Jimmy/GboardDictionary/blob/master/xhyxLite%20by%20NZJJimmy.txt>
 
